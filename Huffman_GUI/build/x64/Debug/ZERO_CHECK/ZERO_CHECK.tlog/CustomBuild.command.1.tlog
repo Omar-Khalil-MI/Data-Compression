@@ -1,0 +1,10 @@
+^C:\USERS\GREEN\DESKTOP\NEW\HUFFMAN_GUI\BUILD\CMAKEFILES\1AA7846E6445A118FFDBEB19581946DE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Green/Desktop/New/Huffman_GUI -BC:/Users/Green/Desktop/New/Huffman_GUI/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Green/Desktop/New/Huffman_GUI/build/NAppHello.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\USERS\GREEN\DESKTOP\NEW\HUFFMAN_GUI\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Green/Desktop/New/Huffman_GUI -BC:/Users/Green/Desktop/New/Huffman_GUI/build --check-stamp-file C:/Users/Green/Desktop/New/Huffman_GUI/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

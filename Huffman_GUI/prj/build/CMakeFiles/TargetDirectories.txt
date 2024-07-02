@@ -1,0 +1,5 @@
+C:/Users/Green/Desktop/New/Huffman_GUI/prj/build/CMakeFiles/INSTALL.dir
+C:/Users/Green/Desktop/New/Huffman_GUI/prj/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Green/Desktop/New/Huffman_GUI/prj/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Green/Desktop/New/Huffman_GUI/prj/build/huffman/CMakeFiles/Huffman-Compression.dir
+C:/Users/Green/Desktop/New/Huffman_GUI/prj/build/huffman/CMakeFiles/INSTALL.dir
