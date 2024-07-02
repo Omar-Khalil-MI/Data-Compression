@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(NAppHello)
+find_package(nappgui REQUIRED)
+include("${NAPPGUI_ROOT_PATH}/prj/NAppProject.cmake")
+nap_project_desktop_app(Huffman-Compression huffman)

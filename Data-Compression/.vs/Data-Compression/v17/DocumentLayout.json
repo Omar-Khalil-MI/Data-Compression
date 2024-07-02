@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Green\\Desktop\\New\\Data-Compression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9129EA08-E2F3-4EBF-A863-4733FDE0BE1A}|Data-Compression\\Data-Compression.vcxproj|C:\\Users\\Green\\Desktop\\New\\Data-Compression\\Data-Compression\\Data-Compression.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9129EA08-E2F3-4EBF-A863-4733FDE0BE1A}|Data-Compression\\Data-Compression.vcxproj|solutionrelative:Data-Compression\\Data-Compression.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data-Compression.cpp",
+              "DocumentMoniker": "C:\\Users\\Green\\Desktop\\New\\Data-Compression\\Data-Compression\\Data-Compression.cpp",
+              "RelativeDocumentMoniker": "Data-Compression\\Data-Compression.cpp",
+              "ToolTip": "C:\\Users\\Green\\Desktop\\New\\Data-Compression\\Data-Compression\\Data-Compression.cpp",
+              "RelativeToolTip": "Data-Compression\\Data-Compression.cpp",
+              "ViewState": "AQIAAAUAAACgYGZmZmYkwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T23:40:57.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

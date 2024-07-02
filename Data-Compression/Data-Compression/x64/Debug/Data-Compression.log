@@ -1,0 +1,8 @@
+﻿  Data-Compression.cpp
+  HuffTree.cpp
+C:\Users\Green\Desktop\New\Data-Compression\Data-Compression\HuffTree.cpp(61,11): warning C4244: 'argument': conversion from 'short' to 'char', possible loss of data
+C:\Users\Green\Desktop\New\Data-Compression\Data-Compression\HuffTree.cpp(208,25): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Green\Desktop\New\Data-Compression\Data-Compression\HuffTree.cpp(210,25): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Green\Desktop\New\Data-Compression\Data-Compression\HuffTree.cpp(216,28): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Data-Compression.vcxproj -> C:\Users\Green\Desktop\New\Data-Compression\x64\Debug\Data-Compression.exe
