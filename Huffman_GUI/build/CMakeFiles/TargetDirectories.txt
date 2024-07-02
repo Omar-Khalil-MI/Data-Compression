@@ -1,3 +1,0 @@
-C:/Users/Green/Desktop/New/Huffman_GUI/build/CMakeFiles/naphello.dir
-C:/Users/Green/Desktop/New/Huffman_GUI/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Green/Desktop/New/Huffman_GUI/build/CMakeFiles/ZERO_CHECK.dir
